@@ -1,0 +1,41 @@
+{
+    "nodes": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+    ],
+    "edges": [
+        {
+            "source": "a",
+            "target": "b"
+        },
+        {
+            "source": "a",
+            "target": "c"
+        },
+        {
+            "source": "a",
+            "target": "e"
+        },
+        {
+            "source": "b",
+            "target": "d"
+        },
+        {
+            "source": "b",
+            "target": "f"
+        },
+        {
+            "source": "c",
+            "target": "g"
+        },
+        {
+            "source": "e",
+            "target": "f"
+        }
+    ]
+}

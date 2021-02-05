@@ -1,0 +1,19 @@
+{
+    "nodes": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f", 
+        "g"],
+
+    "edges": [
+        { "source": "a", "target": "b", "cost": 1 },
+        { "source": "a", "target": "c", "cost": 4 },
+        { "source": "a", "target": "e", "cost": 7 },
+        { "source": "b", "target": "d", "cost": 11},
+        { "source": "b", "target": "f", "cost": 5 },
+        { "source": "c", "target": "g", "cost": 6 },
+        { "source": "e", "target": "f" ,"cost": 7}] 
+    }
